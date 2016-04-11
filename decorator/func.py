@@ -22,8 +22,20 @@ greet = foo
 print greet('AJ Kipper')
 #Output: Hello,World!
 
-#Or as a parameter to another function
+#As a parameter to another function
 def morning(func):
     return func + ',morning'
 print morning(greet('AJ Kipper'))
+
+#Define another func in a func
+def info():
+    def base(name):
+        return 'Hello,' + name
+    return base('AJ Kipper')
+print info()
+#Output:Hello,AJ Kipper
+
+#delete a func
+del info
+
 
