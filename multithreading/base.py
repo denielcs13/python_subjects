@@ -11,7 +11,12 @@ encapsulation of thread,so it's better to use threading instead of thread
 '''
 import threading
 
+#create a thread
+new_thread = threading.Thread(target = func)
+
 #start a thread
+new_thread.start()
+
 
 
 
