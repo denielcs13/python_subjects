@@ -11,6 +11,7 @@ encapsulation of thread,so it's better to use threading instead of thread
 '''
 import threading
 
+#start a thread
 
 
 
