@@ -34,7 +34,13 @@ Python中，数字对象是用来存储数值的，是属于不可改变的对�
 
 <h6 id = 'c1.4'>1.4 复数(complex)</h6>
 
+-----------------
+
 <h6 id = 'c2'>2. 字符串(String)</h6>
+
+Python具有很多内置方法来支持字符串的操作，比如字符串匹配，分割，格式化等等。
+
+具体使用方法总结在[StringHandle.py](https://github.com/AJKipper/PythonSubject/blob/master/datatype/StringHandle.py)
 
 <h6 id = 'c3'>3. 列表(List)</h6>
 
