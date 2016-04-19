@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 #python 2.7.10
 
-''''''
+'''字符串操作总结'''
 
 __author__ = 'AJ Kipper'
 
