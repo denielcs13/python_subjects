@@ -67,6 +67,10 @@ for i in range(len(list_one)):
 for i in range(-len(list_one),0):
 	print 'list_one[%d]' % i,list_one[i]
 
+'''前面两种都是不推荐的做法，最好的做法是直接输出就好'''
+for i in list_one:
+	print i
+
 '''通过元素值访问对应的下标索引，如果元素不存在，报错提示'''
 list_test = [1,2,3,4]
 def Index(list_seq,element):
