@@ -20,7 +20,7 @@
 
 每种编程语言都有自己支持的数据类型，datatype文件里是对Python这门语言支持的数据类型，以及数据操作的一个总结。
 
-[Python数据类型总结](https://github.com/AJKipper/PythonSubject/tree/master/datatype)
+[Python数据类型总结](https://github.com/AJKipper/PythonSubject/tree/master/data-type)
 
 ---------------
 
